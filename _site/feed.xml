@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicky Vanderheyden</title>
+    <description>Software Developer: Mainly C++ &amp; C#</description>
+    <link>http://maxono.github.io//</link>
+    <atom:link href="http://maxono.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 08 Feb 2016 20:53:44 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 20:53:44 +0100</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+  </channel>
+</rss>
