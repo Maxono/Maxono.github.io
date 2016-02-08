@@ -75,6 +75,8 @@ An easy way to download files when you're not home. You just search the file you
 
 #### **Video:** [link][vid_particles]{:target="_blank"}
 
+#### **Source:** [link][source_qt_sfml]{:target="_blank"}
+
 #### **Description:**
 
 Small project to showcase using SFML in Qt for rendering.
@@ -93,3 +95,6 @@ In this case we made a particle manager that you can control with sliders & a te
 [image_map_editor]: {{ site.baseurl }}assets/map_editor_2.png
 [image_dl_man]: {{ site.baseurl }}assets/dl_man.png
 [image_particle_man]: {{ site.baseurl }}assets/particle_demo.png
+
+[vid_dl_man]: https://youtu.be/4jegcp1RztM
+[source_qt_sfml]: https://github.com/Maxono/qt_sfml
